@@ -1,3 +1,5 @@
 Sample data used in here
 
- This database development phase consists of image capture of every individual and extracting the biometric feature, in our case it is face, and later it is enhanced using pre-processing techniques and stored in the database. In our project, we have taken images of individuals in different angles, different expressions and also in different lighting conditions. Face in this research are face of Danh, Van and other friends of us. This is just individual biometric faces of our friends for research to test our system. 
+This database development phase consists of image capture of every individual and extracting the biometric feature, in our case it is face, and later it is enhanced using pre-processing techniques 
+and stored in the database. In our project, we have taken images of individuals in different angles, different expressions and also in different lighting conditions. Face in this research are face 
+of authors and other friends of us. This is just individual biometric faces of our friends for research to test our system. 
